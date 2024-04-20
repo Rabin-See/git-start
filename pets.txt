@@ -2,3 +2,5 @@ rusty
 cows
 blues
 shadows
+askker
+signer
